@@ -1,4 +1,4 @@
-# chicago-insights-geospatial
+# Chicago Geospatial Analysis
 
 
 
